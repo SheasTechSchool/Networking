@@ -1,2 +1,0 @@
-test file, test file
-I am testing the file to ensure the set up is working well.
